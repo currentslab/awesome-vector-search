@@ -1,7 +1,7 @@
 ## Awesome Vector Search Engine
 
 
-> A curated list of awesome vector search framework/engine and research papers to vector similarity search
+> A curated list of awesome vector search framework/engine, library, cloud service and research papers to vector similarity search
 
 
 ### Standalone Service
@@ -41,6 +41,7 @@
 - [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396)
 - [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734)
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
-
+- [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355)
+- [On Approximately Searching for Similar Word Embeddings](https://www.aclweb.org/anthology/P16-1214.pdf)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
