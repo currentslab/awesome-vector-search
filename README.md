@@ -34,7 +34,7 @@
 ### Cloud Service
 
 - [Vector AI — A platform for building vector based applications](https://github.com/vector-ai/vectorai)
-
+- [Weaviate Cloud Service (beta) - Weaviate SaaS service](https://console.semi.technology)
 
 ### Research Papers
 
