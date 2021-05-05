@@ -6,6 +6,7 @@
 
 ### Standalone Service
 
+- [Pinecone - Similarity Search as a Service](https://www.pinecone.io)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
 - [Weaviate is a cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
