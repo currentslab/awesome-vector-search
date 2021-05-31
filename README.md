@@ -15,6 +15,7 @@
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
 - [Vearch is a scalable distributed system for efficient similarity search of deep learning vectors](https://github.com/vearch/vearch)
 - [pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database](https://github.com/netrasys/pgANN)
+- [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
 
 
 ### Library
