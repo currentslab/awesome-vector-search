@@ -17,6 +17,8 @@
 - [pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database](https://github.com/netrasys/pgANN)
 - [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
 - [Aquila DB - distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
+- [Redis HNSW - a redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
+
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
@@ -34,7 +36,7 @@
 - [PyNNDescent - A python nearest neighbor descent for approximate k nearest neighbors](https://github.com/lmcinnes/pynndescent)
 - [TarsosLSH - A Java library implementing practical nearest neighbour search algorithm for multidimensional vectors ](https://github.com/JorenSix/TarsosLSH)
 - [TorchPQ - Efficient implementations of Product Quantization and its variants using Pytorch and CUDA](https://github.com/DeMoriarty/TorchPQ)
-- [Granne  - graph-based retrieval of approximate nearest neighbors ](https://github.com/granne/granne)
+- [Granne  - graph-based retrieval of approximate nearest neighbors witten in rust ](https://github.com/granne/granne)
 
 ### Cloud Service
 
