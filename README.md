@@ -7,7 +7,7 @@
 ### Standalone Service
 
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
-- [Pinecone - Similarity Search as a Service](https://www.pinecone.io)
+- [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
 - [Weaviate is a cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
