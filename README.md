@@ -6,6 +6,7 @@
 
 ### Standalone Service
 
+- [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai)
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
