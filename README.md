@@ -48,11 +48,14 @@
 
 ### Research Papers
 
-- [Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors](https://openaccess.thecvf.com/content_ECCV_2018/html/Dmitry_Baranchuk_Revisiting_the_Inverted_ECCV_2018_paper.html)
+List of methods on how approximate vector search algorithm can be implemented more effciently.
+
+- [SPANN: Highly-efficient Billion-scale Approximate Nearest Neighborhood Search - NEURIPS 2021](https://proceedings.neurips.cc/paper/2021/hash/299dc35e747eb77177d9cea10a802da2-Abstract.html)
+- [Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors - ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Dmitry_Baranchuk_Revisiting_the_Inverted_ECCV_2018_paper.html)
 - [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396)
 - [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734)
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
 - [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355)
-- [On Approximately Searching for Similar Word Embeddings](https://www.aclweb.org/anthology/P16-1214.pdf)
+- [On Approximately Searching for Similar Word Embeddings - ACL 2016](https://www.aclweb.org/anthology/P16-1214.pdf)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
