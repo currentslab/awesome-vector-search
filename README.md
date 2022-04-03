@@ -6,9 +6,9 @@
 
 ### Standalone Service
 
-- [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai)
+#### Github links
+
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
-- [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
 - [Weaviate is a cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
@@ -44,10 +44,13 @@
 ### Cloud Service
 
 - [Vector AI — A platform for building vector based applications](https://github.com/vector-ai/vectorai)
+- [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
+- [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 
 
 ### Research Papers
 
+- [Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors](https://openaccess.thecvf.com/content_ECCV_2018/html/Dmitry_Baranchuk_Revisiting_the_Inverted_ECCV_2018_paper.html)
 - [Accelerating Large-Scale Inference with Anisotropic Vector Quantization](https://arxiv.org/abs/1908.10396)
 - [Billion-scale similarity search with GPUs](https://arxiv.org/abs/1702.08734)
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
