@@ -17,7 +17,7 @@
 - [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
 - [Aquila DB - distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
 - [Redis HNSW - a redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
-
+- [Vearch - a scalable distributed system for efficient similarity search of deep learning vectors.](https://github.com/vearch/vearch)
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
