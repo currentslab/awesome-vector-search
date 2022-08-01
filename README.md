@@ -20,6 +20,7 @@
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
+- [Distributed Faiss - Work with FAISS indexes which don't fit into a single server memory](https://github.com/facebookresearch/distributed-faiss)
 - [Autofaiss - Automatically create Faiss knn indices](https://github.com/criteo/autofaiss)
 - [ScaNN - A library efficient vector similarity search at scale. ](https://github.com/google-research/google-research/tree/master/scann)
 - [NMSLIB - Non-Metric Space Library, an efficient similarity search library for generic non-metric spaces](https://github.com/nmslib/nmslib)
@@ -27,6 +28,7 @@
 - [FLANN - Library written in C++ and contains bindings for the following languages: C, MATLAB, Python, and Ruby](http://www.cs.ubc.ca/research/flann/)
 - [MRPT - Fast nearest neighbor search with random projection](https://github.com/teemupitkanen/mrpt)
 - [RPForest - Python library for approximate nearest neighbours search](https://github.com/lyst/rpforest)
+- [Pyserini - Toolkit for reproducible information retrieval research with sparse and dense representations](https://github.com/castorini/pyserini)
 - [NGT - Provides commands and a library for performing high-speed approximate nearest neighbor ](https://github.com/yahoojapan/NGT)
 - [NearPy - Approximate search using different locality-sensitive hashing methods](http://pixelogik.github.io/NearPy/)
 - [TOROS N2 - lightweight approximate Nearest Neighbor library](https://github.com/kakao/n2)
