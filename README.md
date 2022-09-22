@@ -17,6 +17,7 @@
 - [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
 - [Aquila DB - Distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
 - [Redis HNSW - A redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
+- [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
