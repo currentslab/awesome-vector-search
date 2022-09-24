@@ -18,8 +18,6 @@
 - [Aquila DB - Distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
 - [Redis HNSW - A redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
-- [pgvector - Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
-- [PASE - PostgreSQL Ultra-High-Dimensional Approximate Nearest Neighbor Search Extension](https://github.com/alipay/PASE)
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
@@ -31,6 +29,8 @@
 - [FLANN - Library written in C++ and contains bindings for the following languages: C, MATLAB, Python, and Ruby](http://www.cs.ubc.ca/research/flann/)
 - [MRPT - Fast nearest neighbor search with random projection](https://github.com/teemupitkanen/mrpt)
 - [RPForest - Python library for approximate nearest neighbours search](https://github.com/lyst/rpforest)
+- [pgvector - Open-source vector similarity search extension for Postgres](https://github.com/pgvector/pgvector)
+- [PASE - Ultra-High-Dimensional approximate nearest neighbor search extension for Postgres](https://github.com/alipay/PASE)
 - [Pyserini - Toolkit for reproducible information retrieval research with sparse and dense representations](https://github.com/castorini/pyserini)
 - [NGT - Provides commands and a library for performing high-speed approximate nearest neighbor ](https://github.com/yahoojapan/NGT)
 - [NearPy - Approximate search using different locality-sensitive hashing methods](http://pixelogik.github.io/NearPy/)
