@@ -18,6 +18,8 @@
 - [Aquila DB - Distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
 - [Redis HNSW - A redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
+- [pgvector - Open-source vector similarity search for Postgres](https://github.com/pgvector/pgvector)
+- [PASE - PostgreSQL Ultra-High-Dimensional Approximate Nearest Neighbor Search Extension](https://github.com/alipay/PASE)
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
