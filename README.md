@@ -5,8 +5,6 @@
 
 
 ### Standalone Service
-
-- [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
@@ -48,6 +46,7 @@
 
 ### Cloud Service
 
+- [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Vector AI — A platform for building vector based applications](https://github.com/vector-ai/vectorai)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
