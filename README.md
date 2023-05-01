@@ -44,6 +44,7 @@
 - [Granne  - Graph-based retrieval of approximate nearest neighbors witten in rust ](https://github.com/granne/granne)
 - [Embeddinghub - A database built for machine learning embeddings](https://github.com/featureform/embeddinghub)
 - [Hora - Efficient approximate nearest neighbor search algorithm collections library written in Rust](https://github.com/hora-search/hora)
+- [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
 
 ### Cloud Service
 
