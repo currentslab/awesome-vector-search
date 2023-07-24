@@ -5,10 +5,9 @@
 
 
 ### Standalone Service
-
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
-- [Milvus - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
+- [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
 - [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
 - [OpenDistro Elasticsearch KNN - A machine learning plugin which supports an approximate k-NN search algorithm for Open Distro for Elasticsearch](https://github.com/opendistro-for-elasticsearch/k-NN)
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
@@ -19,6 +18,7 @@
 - [Redis HNSW - A redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
+- [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
@@ -45,10 +45,12 @@
 - [Embeddinghub - A database built for machine learning embeddings](https://github.com/featureform/embeddinghub)
 - [Hora - Efficient approximate nearest neighbor search algorithm collections library written in Rust](https://github.com/hora-search/hora)
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma)
+- [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
 
 ### Cloud Service
 
-- [Vector AI — A platform for building vector based applications](https://github.com/vector-ai/vectorai)
+- [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 
