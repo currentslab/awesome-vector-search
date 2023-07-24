@@ -53,7 +53,7 @@
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
-
+- [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
 
 ### Research Papers
 
