@@ -50,7 +50,6 @@
 ### Cloud Service
 
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
-- [Vector AI — A platform for building vector based applications](https://github.com/vector-ai/vectorai)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 
