@@ -5,10 +5,9 @@
 
 
 ### Standalone Service
-
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
-- [Milvus - An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
+- [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
 - [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
 - [OpenDistro Elasticsearch KNN - A machine learning plugin which supports an approximate k-NN search algorithm for Open Distro for Elasticsearch](https://github.com/opendistro-for-elasticsearch/k-NN)
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
@@ -48,6 +47,7 @@
 
 ### Cloud Service
 
+- [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Vector AI — A platform for building vector based applications](https://github.com/vector-ai/vectorai)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
