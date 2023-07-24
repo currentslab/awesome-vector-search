@@ -44,6 +44,7 @@
 - [Granne  - Graph-based retrieval of approximate nearest neighbors witten in rust ](https://github.com/granne/granne)
 - [Embeddinghub - A database built for machine learning embeddings](https://github.com/featureform/embeddinghub)
 - [Hora - Efficient approximate nearest neighbor search algorithm collections library written in Rust](https://github.com/hora-search/hora)
+- [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma)
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
 
 ### Cloud Service
