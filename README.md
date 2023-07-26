@@ -19,6 +19,7 @@
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
 - [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
+- [TensorDB - High Performance Vector Database Supporting Heterogeneous Computing](https://www.actionsky.com/tensorDB)
 
 ### Library
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
