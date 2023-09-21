@@ -21,6 +21,9 @@
 - [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
 
 ### Library
+- [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
+- [CassIO - CassIO is the ultimate solution for seamlessly integrating Apache Cassandra® with generative artificial intelligence and other machine learning workloads](https://cassio.org)
+- [JVector - A pure Java, zero dependency, embedded vector search engine used by some of the advanced distributed databases such as DataStax Astra DB & Apache Cassandra&trade;](https://github.com/jbellis/jvector)
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
 - [Distributed Faiss - Work with FAISS indexes which don't fit into a single server memory](https://github.com/facebookresearch/distributed-faiss)
 - [Autofaiss - Automatically create Faiss knn indices](https://github.com/criteo/autofaiss)
@@ -50,6 +53,7 @@
 
 ### Cloud Service
 
+- [DataStax Astra DB - A serverless NoSQL SaaS that runs on all 3 major clouds which also offers Vector Search capability in addition other other distributed advantages](https://www.datastax.com/astra)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
