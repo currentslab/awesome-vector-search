@@ -53,7 +53,7 @@
 
 ### Cloud Service
 
-- [DataStax Astra DB - A serverless NoSQL SaaS that runs on all 3 major clouds which also offers Vector Search capability in addition other other distributed advantages](https://www.datastax.com/astra)
+- [DataStax Astra DB - A serverless NoSQL SaaS that runs on all 3 major clouds which also offers Vector Search capability in addition to other distributed advantages](https://www.datastax.com/astra)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
