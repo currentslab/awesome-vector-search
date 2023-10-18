@@ -47,6 +47,7 @@
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
 - [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma)
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
+- [Golang vector stores collection - Chroma, PGVector interfaces](https://github.com/urjitbhatia/vectorstores)
 
 ### Cloud Service
 
