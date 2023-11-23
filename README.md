@@ -5,6 +5,7 @@
 
 
 ### Standalone Service
+- [Epsilla -  A High Performance Vector Database Management System, Hippocampus For AI](https://github.com/epsilla-cloud/vectordb)
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
@@ -49,7 +50,7 @@
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
 
 ### Cloud Service
-
+- [Epsilla Cloud - The fully managed serverless vector database with 10X faster, cheaper and better.](https://cloud.epsilla.com)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
