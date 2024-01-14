@@ -5,6 +5,7 @@
 
 
 ### Standalone Service
+- [Infinity - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search](https://github.com/infiniflow/infinity)
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
