@@ -5,7 +5,6 @@
 
 
 ### Standalone Service
-
 - [Apache Cassandra 5.0 – Vector search (cep-30), Strict Serialisable ACID (cep-15), horizontally scaling database](https://cassandra.apache.org)
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
@@ -17,18 +16,20 @@
 - [Vearch - A scalable distributed system for efficient similarity search of deep learning vectors](https://github.com/vearch/vearch)
 - [pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database](https://github.com/netrasys/pgANN)
 - [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
+- [Infinity -  The AI-native database built for LLM applications, providing incredibly fast vector and full-text search](https://github.com/infiniflow/infinity)
 - [Aquila DB - Distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
 - [Redis HNSW - A redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
-- [Vespa.ai - Text search engine and ... fast approximate vector search (ANN)](https://github.com/vespa-engine) -  [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/).
 - [Solr - Apache Solr](https://github.com/apache/solr) - [has a Dense Vector Search feature as of Solr 9.0](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
 - [Semantra - A multipurpose tool for semantically searching documents.](https://github.com/freedmand/semantra)
 - [SuperDuperDB - Bring AI to your favorite database](https://github.com/SuperDuperDB/superduperdb)
-- [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
-- [JVector - a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and Apache Cassandra.](https://github.com/jbellis/jvector/)
-- [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [TensorDB - High Performance Vector Database Supporting Heterogeneous Computing](https://www.actionsky.com/tensorDB)
+- [JVector - a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and Apache Cassandra.](https://github.com/jbellis/jvector/)
+- [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
+- [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
+- [Vespa.ai - Text search engine and ... fast approximate vector search (ANN)](https://github.com/vespa-engine) 
+- [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/)
 
 ### Library
 - [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
