@@ -27,6 +27,9 @@
 - [TensorDB - High Performance Vector Database Supporting Heterogeneous Computing](https://www.actionsky.com/tensorDB)
 
 ### Library
+- [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
+- [CassIO - CassIO is the ultimate solution for seamlessly integrating Apache Cassandra® with generative artificial intelligence and other machine learning workloads](https://cassio.org)
+- [JVector - A pure Java, zero dependency, embedded vector search engine used by some of the advanced distributed databases such as DataStax Astra DB & Apache Cassandra&trade;](https://github.com/jbellis/jvector)
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
 - [Distributed Faiss - Work with FAISS indexes which don't fit into a single server memory](https://github.com/facebookresearch/distributed-faiss)
 - [Autofaiss - Automatically create Faiss knn indices](https://github.com/criteo/autofaiss)
@@ -59,11 +62,11 @@
 ### Cloud Service
 
 - [DataStax Astra Vector - Multi-cloud, serverless vector DBaaS](https://www.datastax.com/products/vector-search)
-- [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
+- [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 
 ### Research Papers
 
