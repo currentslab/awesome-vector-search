@@ -33,6 +33,7 @@
 - [NMSLIB - Non-Metric Space Library, an efficient similarity search library for generic non-metric spaces](https://github.com/nmslib/nmslib)
 - [Annoy - C++ library with Python bindings to search for points](https://github.com/spotify/annoy)
 - [FLANN - Library written in C++ and contains bindings for the following languages: C, MATLAB, Python, and Ruby](http://www.cs.ubc.ca/research/flann/)
+- [LLM App - Open-source Python library for a real-time data KNN (K-Nearest Neighbors) indexing](https://github.com/pathwaycom/llm-app)
 - [MRPT - Fast nearest neighbor search with random projection](https://github.com/teemupitkanen/mrpt)
 - [RPForest - Python library for approximate nearest neighbours search](https://github.com/lyst/rpforest)
 - [pgvector - Open-source vector similarity search extension for Postgres](https://github.com/pgvector/pgvector)
