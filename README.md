@@ -5,6 +5,7 @@
 
 
 ### Standalone Service
+- [Apache Cassandra 5.0 – Vector search (cep-30), Strict Serialisable ACID (cep-15), horizontally scaling database](https://cassandra.apache.org)
 - [Qdrant -  Vector Similarity Search Engine with extended filtering support](https://github.com/qdrant/qdrant)
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
