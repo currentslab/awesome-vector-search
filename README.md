@@ -22,6 +22,7 @@
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
 - [Semantra - A multipurpose tool for semantically searching documents.](https://github.com/freedmand/semantra)
 - [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
+- [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [TensorDB - High Performance Vector Database Supporting Heterogeneous Computing](https://www.actionsky.com/tensorDB)
 
 ### Library
