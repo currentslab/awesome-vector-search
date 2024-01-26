@@ -24,6 +24,7 @@
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
 - [Semantra - A multipurpose tool for semantically searching documents.](https://github.com/freedmand/semantra)
+- [SuperDuperDB - Bring AI to your favorite database](https://github.com/SuperDuperDB/superduperdb)
 - [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
 - [JVector - a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and Apache Cassandra.](https://github.com/jbellis/jvector/)
 - [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
