@@ -22,6 +22,7 @@
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
 - [Semantra - A multipurpose tool for semantically searching documents.](https://github.com/freedmand/semantra)
 - [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
+- [JVector - a pure Java, zero dependency, embedded vector search engine, used by DataStax Astra DB and Apache Cassandra.](https://github.com/jbellis/jvector/)
 - [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [TensorDB - High Performance Vector Database Supporting Heterogeneous Computing](https://www.actionsky.com/tensorDB)
 
@@ -57,6 +58,7 @@
 
 ### Cloud Service
 
+- [DataStax Astra Vector - Multi-cloud, serverless vector DBaaS](https://www.datastax.com/products/vector-search)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
