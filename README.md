@@ -20,6 +20,7 @@
 - [Solr - Apache Solr](https://github.com/apache/solr) - [has a Dense Vector Search feature as of Solr 9.0](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
 - [Marqo - A semantic search engine which supports tensor search (sequence of vectors)](https://github.com/marqo-ai/marqo)
 - [txtai - Build semantic search applications and workflows](https://github.com/neuml/txtai)
+- [Semantra - A multipurpose tool for semantically searching documents.](https://github.com/freedmand/semantra)
 - [VQLite - Simple and Lightweight Vector Search Engine](https://github.com/VQLite/VQLite)
 
 ### Library
