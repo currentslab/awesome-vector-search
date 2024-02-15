@@ -73,6 +73,7 @@
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
+- [SemaDB Cloud - Easy-to-use managed vector database with a RESTful API](https://www.semafind.com/products/semadb)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 
 ### Research Papers
