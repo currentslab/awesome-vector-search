@@ -64,6 +64,7 @@
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
 - [Golang vector stores collection - Chroma, PGVector interfaces](https://github.com/urjitbhatia/vectorstores)
 - [Scalable Vector Search (SVS) - A performance library for vector similarity search](https://github.com/IntelLabs/ScalableVectorSearch)
+- [MariaDB Vector - Fast performing vector search in an open source RDBMS - for RAG and more](https://mariadb.org/projects/mariadb-vector/)
 
 ### Cloud Service
 
