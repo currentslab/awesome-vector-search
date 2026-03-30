@@ -74,6 +74,7 @@
 - [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
+- [Rivestack - Managed PostgreSQL with pgvector for AI vector search workloads. HNSW indexing, SQL editor with embedding search, free tier.](https://rivestack.io)
 
 ### Research Papers
 
