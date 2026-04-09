@@ -38,6 +38,7 @@
 - [Faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
 - [Distributed Faiss - Work with FAISS indexes which don't fit into a single server memory](https://github.com/facebookresearch/distributed-faiss)
 - [Autofaiss - Automatically create Faiss knn indices](https://github.com/criteo/autofaiss)
+- [faiss-node-native - High-performance async Node.js native bindings for Facebook FAISS, built for semantic search and RAG applications](https://github.com/anupammaurya6767/faiss-node-native)
 - [ScaNN - A library efficient vector similarity search at scale. ](https://github.com/google-research/google-research/tree/master/scann)
 - [NMSLIB - Non-Metric Space Library, an efficient similarity search library for generic non-metric spaces](https://github.com/nmslib/nmslib)
 - [Annoy - C++ library with Python bindings to search for points](https://github.com/spotify/annoy)
