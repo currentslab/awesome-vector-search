@@ -75,6 +75,8 @@
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - MCP server for AI agent trust scoring on Solana. Zero-install Streamable HTTP endpoint for agent identity resolution, on-chain scoring, and signed trust receipts.
+
 ### Research Papers
 
 List of methods on how approximate vector search algorithm can be implemented more effciently.
