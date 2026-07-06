@@ -76,6 +76,7 @@
 - [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
 - [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
+- [SemaDB Cloud - Easy-to-use managed vector database with a RESTful API](https://www.semafind.com/products/semadb)
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Rivestack - Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (automatically converted to vector embeddings). Free tier includes 2GB storage.](https://rivestack.io)
