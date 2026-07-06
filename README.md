@@ -10,6 +10,7 @@
 - [Vald - A Highly Scalable Distributed Vector Search Engine](https://github.com/vdaas/vald)
 - [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
 - [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
+- [Omnigraph - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime](https://github.com/ModernRelay/omnigraph)
 - [OpenDistro Elasticsearch KNN - A machine learning plugin which supports an approximate k-NN search algorithm for Open Distro for Elasticsearch](https://github.com/opendistro-for-elasticsearch/k-NN)
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
 - [Epsilla -  A High Performance Vector Database Management System, Hippocampus For AI](https://github.com/epsilla-cloud/vectordb)
@@ -60,21 +61,26 @@
 - [Embeddinghub - A database built for machine learning embeddings](https://github.com/featureform/embeddinghub)
 - [Hora - Efficient approximate nearest neighbor search algorithm collections library written in Rust](https://github.com/hora-search/hora)
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [altor-vec - In-browser HNSW vector search in JavaScript. 54KB WASM, sub-millisecond queries, no server required. npm install altor-vec](https://github.com/altor-lab/altor-vec)
 - [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma)
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
 - [Golang vector stores collection - Chroma, PGVector interfaces](https://github.com/urjitbhatia/vectorstores)
 - [Scalable Vector Search (SVS) - A performance library for vector similarity search](https://github.com/IntelLabs/ScalableVectorSearch)
+- [Moss - Sub-10ms semantic search engine for Voice & Conversational AI, built in Rust/WebAssembly for on-device / in-browser retrieval](https://github.com/usemoss/moss)
 
 ### Cloud Service
 
-- [Epsilla Cloud - The fully managed serverless vector database with 10X faster, cheaper and better.](https://cloud.epsilla.com)
 - [DataStax Astra Vector - Multi-cloud, serverless vector DBaaS](https://www.datastax.com/products/vector-search)
-- [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
-- [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
+- [Epsilla Cloud - The fully managed serverless vector database with 10X faster, cheaper and better.](https://cloud.epsilla.com)
+- [MongoDB Atlas Vector Search - Multi-cloud vector search with filtering, horizontal scaling, etc.](https://www.mongodb.com/products/platform/atlas-vector-search)
 - [MyScale - A managed vector database based on ClickHouse](https://myscale.com)
+- [Pinecone - Managed vector search with filtering, live index updates, horizontal scaling, and a lot more](https://www.pinecone.io)
 - [Redis Cloud - Managed vector database in Redis](https://redis.com/cloud)
 - [SemaDB Cloud - Easy-to-use managed vector database with a RESTful API](https://www.semafind.com/products/semadb)
+- [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
+- [Rivestack - Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (automatically converted to vector embeddings). Free tier includes 2GB storage.](https://rivestack.io)
+
 
 ### Research Papers
 
