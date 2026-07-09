@@ -96,5 +96,6 @@ List of methods on how approximate vector search algorithm can be implemented mo
 - [Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs](https://arxiv.org/abs/1603.09320)
 - [Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data](https://arxiv.org/abs/1810.07355)
 - [On Approximately Searching for Similar Word Embeddings - ACL 2016](https://www.aclweb.org/anthology/P16-1214.pdf)
+- [Billion-Scale Vector Search: Team Sisu and BuddyPQ](https://medium.com/big-ann-benchmarks/billion-scale-vector-search-team-sisu-and-buddypq-ce9b016fd433)
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
