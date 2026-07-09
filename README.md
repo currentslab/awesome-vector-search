@@ -31,6 +31,7 @@
 - [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [Vespa.ai - Text search engine and ... fast approximate vector search (ANN)](https://github.com/vespa-engine) 
 - [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/)
+- [VelesDB - The SQLite of vector search. 70µs queries (700x faster than pgvector), ≥95% recall guaranteed, hybrid BM25+vector, native HNSW with AVX-512 SIMD, full ecosystem integrations and more.](https://github.com/cyberlife-coder/VelesDB)
 
 ### Library
 - [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
