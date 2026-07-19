@@ -62,6 +62,7 @@
 - [Embeddinghub - A database built for machine learning embeddings](https://github.com/featureform/embeddinghub)
 - [Hora - Efficient approximate nearest neighbor search algorithm collections library written in Rust](https://github.com/hora-search/hora)
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [ferrovec - Dependency-light HNSW vector search in Rust compiled to WebAssembly, with OPFS persistence for private in-browser semantic search](https://github.com/singhpratech/ferrovec)
 - [altor-vec - In-browser HNSW vector search in JavaScript. 54KB WASM, sub-millisecond queries, no server required. npm install altor-vec](https://github.com/altor-lab/altor-vec)
 - [Chroma - The open-source embedding database for building LLM apps in Python or JavaScript with memory](https://github.com/chroma-core/chroma)
 - [USearch - Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram](https://github.com/unum-cloud/usearch)
