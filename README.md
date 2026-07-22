@@ -31,6 +31,7 @@
 - [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [Vespa.ai - Text search engine and ... fast approximate vector search (ANN)](https://github.com/vespa-engine) 
 - [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/)
+- [Samyama Graph - Rust graph-vector database combining property-graph traversal (~90% openCypher) with HNSW vector search in one engine](https://github.com/samyama-ai/samyama-graph)
 
 ### Library
 - [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
