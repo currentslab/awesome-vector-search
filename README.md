@@ -48,6 +48,7 @@
 - [MRPT - Fast nearest neighbor search with random projection](https://github.com/teemupitkanen/mrpt)
 - [RPForest - Python library for approximate nearest neighbours search](https://github.com/lyst/rpforest)
 - [pgvector - Open-source vector similarity search extension for Postgres](https://github.com/pgvector/pgvector)
+- [SQLite Graph Memory - Graph RAG on plain SQLite for agent memory: vector retrieval combined with a curated wikilink graph and a cross-encoder rerank stage, server-less and fully offline from a single file](https://github.com/Palo-Alto-AI-Research-Lab/sqlite-graph-memory)
 - [PASE - Ultra-High-Dimensional approximate nearest neighbor search extension for Postgres](https://github.com/alipay/PASE)
 - [Pyserini - Toolkit for reproducible information retrieval research with sparse and dense representations](https://github.com/castorini/pyserini)
 - [NGT - Provides commands and a library for performing high-speed approximate nearest neighbor ](https://github.com/yahoojapan/NGT)
