@@ -18,6 +18,7 @@
 - [pgANN - Fast Approximate Nearest Neighbor (ANN) searches with a PostgreSQL database](https://github.com/netrasys/pgANN)
 - [Jina - Jina allows you to build deep learning-powered search-as-a-service.](https://github.com/jina-ai/jina)
 - [Infinity -  The AI-native database built for LLM applications, providing incredibly fast vector and full-text search](https://github.com/infiniflow/infinity)
+- [Manticore Search - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL](https://github.com/manticoresoftware/manticoresearch)
 - [Aquila DB - Distribution focused k-NN search algorithm](https://github.com/Aquila-Network/AquilaDB)
 - [Redis HNSW - A redis module for similarity search based on HNSW](https://github.com/zhao-lang/redis_hnsw)
 - [Solr - Apache Solr](https://github.com/apache/solr) - [has a Dense Vector Search feature as of Solr 9.0](https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html)
