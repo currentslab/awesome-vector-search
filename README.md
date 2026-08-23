@@ -12,6 +12,7 @@
 - [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
 - [Omnigraph - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime](https://github.com/ModernRelay/omnigraph)
 - [OpenDistro Elasticsearch KNN - A machine learning plugin which supports an approximate k-NN search algorithm for Open Distro for Elasticsearch](https://github.com/opendistro-for-elasticsearch/k-NN)
+- [Oracle AI Databse - Vector SDK for semantic search and RAG](https://github.com/oracle/vecdb-python-sdk)
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
 - [Epsilla -  A High Performance Vector Database Management System, Hippocampus For AI](https://github.com/epsilla-cloud/vectordb)
 - [Vearch - A scalable distributed system for efficient similarity search of deep learning vectors](https://github.com/vearch/vearch)
