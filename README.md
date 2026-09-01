@@ -83,6 +83,7 @@
 - [Relevance AI - Vector Platform From Experimentation To Deployment](https://relevance.ai/vectors/)
 - [Zilliz Cloud - Cloud-native service for Milvus](https://zilliz.com/cloud)
 - [Rivestack - Managed PostgreSQL with pgvector for AI workloads. Built-in SQL editor lets you query your database with natural language (automatically converted to vector embeddings). Free tier includes 2GB storage.](https://rivestack.io)
+- [TopK - Managed search engine for accuracy-critical AI applications, combining hybrid search, multi-vector (late-interaction) retrieval, custom ranking, and managed inference in a single API](https://topk.io)
 
 
 ### Research Papers
