@@ -33,6 +33,7 @@
 - [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/)
 
 ### Library
+- [wedb_embed - An embedded disk-backed database engine in Rust providing Redis data structures and native HNSW vector search](https://github.com/webc-site/wedb_embed)
 - [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
 - [CassIO - CassIO is the ultimate solution for seamlessly integrating Apache Cassandra® with generative artificial intelligence and other machine learning workloads](https://cassio.org)
 - [JVector - A pure Java, zero dependency, embedded vector search engine used by some of the advanced distributed databases such as DataStax Astra DB & Apache Cassandra&trade;](https://github.com/jbellis/jvector)
