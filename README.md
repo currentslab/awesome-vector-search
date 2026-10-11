@@ -70,6 +70,7 @@
 - [chromem-go - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.](https://github.com/philippgille/chromem-go)
 - [CocoIndex - An open-source ETL framework with realtime incremental processing to keep index fresh](https://github.com/cocoindex-io/cocoindex)
 - [Moss - Sub-10ms semantic search engine for Voice & Conversational AI, built in Rust/WebAssembly for on-device / in-browser retrieval](https://github.com/usemoss/moss)
+- [glossdex - Local semantic search that decides how many results to return, including none, from the score distribution; training-free](https://github.com/miranpoor/glossdex)
 
 ### Cloud Service
 
