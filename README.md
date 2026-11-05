@@ -31,6 +31,7 @@
 - [Vexvault - 100% browser based, open source, scalable, simple, zero-cost vector search](https://github.com/Xyntopia/vexvault)
 - [Vespa.ai - Text search engine and ... fast approximate vector search (ANN)](https://github.com/vespa-engine) 
 - [Vespa's large-scale ANN search using HNSW-IF indexes is described here](https://blog.vespa.ai/vespa-hybrid-billion-scale-vector-search/)
+- [XERJ - Local search engine in one Rust binary with kNN vector, BM25 and hybrid search over an Elasticsearch-compatible API](https://github.com/xerj-org/xerj)
 
 ### Library
 - [LangStream - LangStream is an open-source project that combines the best of event-based architectures with the latest Gen AI technologies.](https://langstream.ai)
