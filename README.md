@@ -11,6 +11,7 @@
 - [Milvus - A cloud-native vector database with high-performance and high scalability.](https://github.com/milvus-io/milvus)
 - [Weaviate - A cloud-native, real-time vector search engine](https://github.com/semi-technologies/weaviate)
 - [Omnigraph - Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime](https://github.com/ModernRelay/omnigraph)
+- [HelixDB - Open-source OLTP graph database in Rust with native vector and BM25 full-text search, with vector search scoped to graph-related nodes](https://github.com/HelixDB/helix-db)
 - [OpenDistro Elasticsearch KNN - A machine learning plugin which supports an approximate k-NN search algorithm for Open Distro for Elasticsearch](https://github.com/opendistro-for-elasticsearch/k-NN)
 - [Elastiknn - Elasticsearch plugin for nearest neighbor search](https://github.com/alexklibisz/elastiknn)
 - [Epsilla -  A High Performance Vector Database Management System, Hippocampus For AI](https://github.com/epsilla-cloud/vectordb)
