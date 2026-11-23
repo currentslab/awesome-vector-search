@@ -70,6 +70,7 @@
 - [chromem-go - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.](https://github.com/philippgille/chromem-go)
 - [CocoIndex - An open-source ETL framework with realtime incremental processing to keep index fresh](https://github.com/cocoindex-io/cocoindex)
 - [Moss - Sub-10ms semantic search engine for Voice & Conversational AI, built in Rust/WebAssembly for on-device / in-browser retrieval](https://github.com/usemoss/moss)
+- [DataVo - Embedded SQL and vector database engine in pure C# (.NET) with SIMD flat and HNSW vector indexes, filtered vector search, and zero native dependencies](https://github.com/ArintonAkos/DataVo-DBMS)
 
 ### Cloud Service
 
